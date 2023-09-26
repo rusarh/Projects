@@ -1,1 +1,0 @@
-ESP8266 - Logs everything that comes through serial port and sends to web service through wifi. Useful for debugging and long term monitoring of microcontrollers.
